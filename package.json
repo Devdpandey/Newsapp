@@ -1,6 +1,6 @@
 {
-  "name": "newsnepal",
-  "homepage":"https://devdpandey.github.io/newsnepal",
+  "name": "Newsapp",
+  "homepage":"https://devdpandey.github.io/Newsapp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
